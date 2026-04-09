@@ -87,7 +87,6 @@ RetailTech aims to:
 ```
 retail-intelligence-system/
 │
-├── src/                # Core implementations
 ├── notebooks/          # Experiments and analysis
 ├── results/            # Visualizations and metrics
 ├── reports/            # Technical report, memo, slides
